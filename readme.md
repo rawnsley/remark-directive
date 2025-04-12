@@ -26,7 +26,7 @@ and such).
 * [Authoring](#authoring)
 * [HTML](#html)
 * [CSS](#css)
-* [Syntax](#syntax)
+* [Syntax](#supported-syntax)
 * [Syntax tree](#syntax-tree)
 * [Types](#types)
 * [Compatibility](#compatibility)
