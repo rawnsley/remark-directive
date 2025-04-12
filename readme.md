@@ -395,7 +395,7 @@ they do not emit anything.
 
 How to display directives is left as an exercise for the reader.
 
-## Syntax
+## Supported Syntax
 
 See [*Syntax* in
 `micromark-extension-directive`](https://github.com/micromark/micromark-extension-directive#syntax).
