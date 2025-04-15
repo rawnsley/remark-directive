@@ -391,12 +391,6 @@ You can define how directives are turned into HTML.
 If directives are not handled,
 they do not emit anything.
 
-A generic transformation of directives and 
-their attributes to HTML can be achieved by adding the 
-**[rehype][github-rehype]** and 
-**[remark-directive-rehype][github-remark-directive-rehype]**
-processors.
-
 ## CSS
 
 How to display directives is left as an exercise for the reader.
@@ -473,6 +467,9 @@ or user content so there are no openings for
 * [`remark-mdx`](https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx)
   — support MDX
   (ESM, JSX, expressions)
+* [`remark-directive-rehype`](https://github.com/IGassmann/remark-directive-rehype)
+  — simple preservation of directives and attributes when transforming
+  to HTML with **[rehype][github-rehype]**
 
 ## Contribute
 
@@ -536,8 +533,6 @@ or community you agree to abide by its terms.
 [github-rehype]: https://github.com/rehypejs/rehype
 
 [github-remark]: https://github.com/remarkjs/remark
-
-[github-remark-directive-rehype]: https://github.com/IGassmann/remark-directive-rehype
 
 [github-remark-stringify-quote]: https://github.com/remarkjs/remark/tree/main/packages/remark-stringify#options
 
