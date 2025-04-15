@@ -391,6 +391,11 @@ You can define how directives are turned into HTML.
 If directives are not handled,
 they do not emit anything.
 
+A generic transformation of directives and their attributes to HTML can be achieved by adding the 
+[rehype](https://github.com/rehypejs/rehype) and 
+[remark-directive-rehype](https://github.com/IGassmann/remark-directive-rehype)
+processors.
+
 ## CSS
 
 How to display directives is left as an exercise for the reader.
