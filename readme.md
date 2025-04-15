@@ -537,9 +537,9 @@ or community you agree to abide by its terms.
 
 [github-remark]: https://github.com/remarkjs/remark
 
-[github-remark-stringify-quote]: https://github.com/remarkjs/remark/tree/main/packages/remark-stringify#options
-
 [github-remark-directive-rehype]: https://github.com/IGassmann/remark-directive-rehype
+
+[github-remark-stringify-quote]: https://github.com/remarkjs/remark/tree/main/packages/remark-stringify#options
 
 [github-unified]: https://github.com/unifiedjs/unified
 
